@@ -23,7 +23,7 @@ A custom modular JavaFX build system supporting **Desktop** and **Android** depl
 - Java JDK 24 is recommended (`jdk-24`)
 - Ensure `JAVA_HOME` is set correctly inside the script
 
-### Android SDK & NDK
+### Android SDK
 
 Install the Android SDK manually or via command line tools:
 
