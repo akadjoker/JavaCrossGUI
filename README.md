@@ -167,6 +167,29 @@ Removes:
 
 ---
 
+
+## 🖼️ Screenshots
+
+### 💻 Desktop
+
+![Desktop Plot](images/plot.png)
+![Desktop Widgets](images/widgets.png)
+![Desktop Calc](images/calc.png)
+
+
+### 📱 Android
+
+![Android Plot](images/plot_android.png)
+![Android Widgets](images/widgets_android.png)
+![Android Calc](images/calc_android.png)
+
+
+### Demos
+- python3 builder.py samples/WidgetDemo com.exemplo.widgetdemo --target desktop --name WidgetDemo --run
+- python3 builder.py samples/SceneSwitcher com.exemplo.sceneswitcher --target desktop --name SceneSwitcher --run
+- python3 builder.py samples/DataVizDemo com.djokersoft.datavizdemo --target desktop --name DataVizDemo --run
+- python3 builder.py samples/calculadora com.djokersoft.calculadora --target desktop --name Calculadora --run
+
 ## 📌 Notes
 
 - The JavaFX runtime and native libs are expected under `androidFX/`
